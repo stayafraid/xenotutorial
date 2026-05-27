@@ -1,6 +1,6 @@
 For PC:
 
-how to exploit/mod roblox:
+how to mod roblox:
 
 Step 1:
 
@@ -31,5 +31,12 @@ For IOS/Android:
 
 from what i know, you cannot get xeno on android.
 you can try to get a mobile executor, but most of the time it will be a virus.
+STAY SAFE!
 
-STAY SAFE!!
+DEBUG/EXTRAS!!
+
+>> Debug #1 >> "It wont sync to my account" >> try asking someone or try looking up a tutorial.
+
+>> Debug #2 >> "I think it gave me malware" >> don't panic, it might just be outdated, but its always good to use a website such as virustotal.
+
+>> Debug #3 >> "Xeno won't open" >> Try redownloading it.
