@@ -9,19 +9,19 @@ https://www.xeno.now/download << go here and it will give you multiple options, 
 Step 2:
 
 it might ask you to click a button to verify, after that, wait 10 seconds and click watch an ad, scroll down again and click the button again << it might ask you to install opera gx << get opera gx
-<< uninstall it after you get the exe file that it gives you
+<< uninstall it after
 
 Step 3:
 
 << note: you do NOT need to disable antivirus or actually give them any info
 
-<< sync your account (multiple tutorials on youtube)
+<< sync your account (usually automatic)
 
 << open your roblox client
 
-<< find a gui script to run (you can usually find these on github or on discord servers, but just be safe)
+<< find a gui script to run (you can usually find these on github or on discord servers, just be safe)
 
-<< join a game, and run the script (NOTE: IT MIGHT NOT BE SAFE OR IT MIGHT NOT WORK)
+<< join a game, and run the script (NOTE: IT MIGHT BE OUTDATED OR IT MIGHT BE MALWARE)
 
 The End!!
 
